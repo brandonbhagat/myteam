@@ -1,0 +1,29 @@
+body {
+	font-family: 'Play', helvetica neue, arial, sans-serif;
+	background-color: floralwhite;
+	background-size: cover;
+}
+
+
+.hello {
+	color: goldenrod;
+}
+
+.goodbye {
+	color: goldenrod;
+}
+
+.kings {
+
+}
+
+.stanley {
+	color: dimgray;
+}
+
+.yep {
+	background: url(stanley.jpg);
+	background-size: cover;
+	color: gold;
+	font-size: 30px;
+}
